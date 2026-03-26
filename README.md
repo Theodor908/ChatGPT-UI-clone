@@ -1,6 +1,6 @@
-# ChatGPT Clone
+# ChatGPT UI Clone
 
-A simple ChatGPT clone built with React and the OpenAI API (gpt-3.5-turbo). Tries to match the look and feel of the real ChatGPT interface.
+A simple ChatGPT UI clone built with React and the OpenAI API (gpt-3.5-turbo). Tries to match the look and feel of the real ChatGPT interface.
 
 ## License
 
